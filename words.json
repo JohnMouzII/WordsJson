@@ -1,0 +1,25 @@
+{
+  "categories": {
+    "animals": [
+      "cows",
+      "dogs",
+      "cats",
+      "birds",
+      "elephants"
+    ],
+    "fruits": [
+      "apples",
+      "bananas",
+      "oranges",
+      "grapes",
+      "strawberries"
+    ],
+    "colors": [
+      "red",
+      "blue",
+      "green",
+      "yellow",
+      "purple"
+    ]
+  }
+}
